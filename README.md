@@ -1,2 +1,2 @@
 # CUSTOM-PROFILE-BIO
-A simple correction of the BIO component.
+A simple reintroduction of the BIO component by Z Man.
